@@ -1,4 +1,4 @@
-<h1 align="center">My Name is, Miles Purvis</h1>
+<h1 align="center">My Name is Miles Purvis</h1>
 <h3 align="center">A student developer from Waterloo Ontario</h3>
 
 - 🔭 I’m working on a motorsports booking application [PitBox](https://pit-box-booking.firebaseapp.com/)
