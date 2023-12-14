@@ -1,7 +1,7 @@
 <h1 align="center">My Name is Miles Purvis</h1>
 <h3 align="center">A student developer from Waterloo Ontario</h3>
 
-- 🔭 I’m working on a motorsports booking application Firebase: [PitBox](https://pit-box-booking.firebaseapp.com/) & Github: [Repository](https://github.com/MilesPurvis/Pitbox-webapp) 
+- 🔭 I’m working on a motorsports booking application Firebase: [Repository](https://github.com/MilesPurvis/Pitbox-webapp) 
 
 - 🌱 I’m currently learning **React, Tailwind, and Next.js**
 
