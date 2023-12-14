@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **milesjsp@gmail.com**
 
-- ⚡ Fun fact **I used to be a pastry chef**
+- ⚡ Fun fact **I have held positions as Sous-Chef and Pastry Chef at top 50 restaurants in Canada**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
