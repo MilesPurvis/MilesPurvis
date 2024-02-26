@@ -1,6 +1,8 @@
 <h1 align="center">My Name is Miles Purvis</h1>
 <h3 align="center">A student developer from Waterloo Ontario</h3>
 
+- 📚 Portfolio : [My Portfolio Website](https://www.milespurvis.tech/)
+
 - 🔭 I’m working on a motorsport booking application : [Repository](https://github.com/MilesPurvis/Pitbox-webapp) 
 
 - 🌱 I’m currently learning **React, Tailwind, and Next.js**
