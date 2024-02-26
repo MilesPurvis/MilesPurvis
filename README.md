@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on a motorsport booking application : [Repository](https://github.com/MilesPurvis/Pitbox-webapp) 
 
-- 🌱 I’m currently learning **React, Tailwind, and Next.js**
+- 🌱 I’m currently learning **Tailwindcss, Next.js, and  Google Cloud Platform**
 
 - 📫 How to reach me **milesjsp@gmail.com**
 
