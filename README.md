@@ -1,15 +1,5 @@
-<h1 align="center">My Name is Miles Purvis 🥐 </h1>
-<h3 align="center">Student developer from Waterloo Ontario</h3>
-
-- 📚 Portfolio : [My Portfolio Website](https://www.milespurvis.tech/)
-
-- 🔭 I’m working on a REST API for my Recipes
-
-- 🌱 I’m currently learning **AWS & Building REST APIs**
-
-- 📫 How to reach me **milesjsp@gmail.com**
-
-- ⚡ Fun fact **I have held positions as Sous-Chef and Pastry Chef at top 50 restaurants in Canada**
+<h1>My Name is Miles Purvis 🥐 </h1>
+<h3>Student developer from Waterloo Ontario</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
