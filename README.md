@@ -1,5 +1,5 @@
-<h1>My Name is Miles Purvis 🥐 </h1>
-<h3>Student developer from Waterloo Ontario</h3>
+<h1> Miles Purvis 🧇 </h1>
+<h3> Waterloo Ontario</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
