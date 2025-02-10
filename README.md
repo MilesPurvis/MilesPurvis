@@ -1,2 +1,2 @@
 ### Miles Purvis 🧇
-Waterloo, Onatrio 
+Waterloo, Ontario 
